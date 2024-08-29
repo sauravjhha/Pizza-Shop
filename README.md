@@ -36,9 +36,3 @@ _No Known Bugs_
 * _jQuery_
 * _CSS_
 * _Bootstrap_
-
-### License
-
-*MIT*
-
-Copyright (c) 2024 **_Epicodus_**
